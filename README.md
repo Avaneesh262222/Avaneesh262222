@@ -24,7 +24,7 @@ I am a **Data Analyst** with a strong passion for turning raw, complex data into
 <a href="mailto:thevaravaneesh@gmail.com"> 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> 
 </a>
-<a href="https://instagram.com/thevaravaneesh" target="_blank">
+<a href="https://instagram.com/thevaravaneeshb" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.hackerrank.com/profile/thevaravaneesh" target="_blank">
