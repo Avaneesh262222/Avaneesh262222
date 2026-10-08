@@ -1,4 +1,4 @@
-# 💫 Utpal Jani | Data Analyst
+# 💫 Avaneesh Thevar| Data Analyst
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
@@ -21,13 +21,13 @@ I am a **Data Analyst** with a strong passion for turning raw, complex data into
   <a href="https://linkedin.com/in/utpal-jani-20ba25304" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<a href="mailto:utpaljani510@gmail.com"> 
+<a href="mailto:thevaravaneesh@gmail.com"> 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> 
 </a>
-<a href="https://instagram.com/utpal_jani_1984" target="_blank">
+<a href="https://instagram.com/thevaravaneesh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/utpaljani510" target="_blank">
+  <a href="https://www.hackerrank.com/profile/thevaravaneesh" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </div>
